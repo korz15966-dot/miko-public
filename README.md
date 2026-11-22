@@ -1,3 +1,7 @@
+**語言 / Language：** [繁體中文](README.md) | [English](README_EN.md)
+
+---
+
 # Miko：如果人工智慧也能從出生開始成長？
 
 *從一次 AI 對話開始，逐漸走向實際實驗的獨立研究。*
