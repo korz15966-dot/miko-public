@@ -1,3 +1,7 @@
+**Language / 語言:** [English](README_EN.md) | [繁體中文](README.md)
+
+---
+
 # Miko: What If Artificial Intelligence Could Grow from Birth?
 
 *An independent research project that began with an AI conversation and gradually became a series of practical experiments.*
